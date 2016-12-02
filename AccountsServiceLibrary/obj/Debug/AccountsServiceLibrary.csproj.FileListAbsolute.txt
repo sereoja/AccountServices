@@ -1,0 +1,5 @@
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\AccountsServiceLibrary\bin\Debug\AccountsServiceLibrary.dll
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\AccountsServiceLibrary\bin\Debug\AccountsServiceLibrary.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\AccountsServiceLibrary\obj\Debug\AccountsServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\AccountsServiceLibrary\obj\Debug\AccountsServiceLibrary.dll
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\AccountsServiceLibrary\obj\Debug\AccountsServiceLibrary.pdb

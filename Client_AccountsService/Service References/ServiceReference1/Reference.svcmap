@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="dbef20c4-c00b-4bfe-8b77-a221c701001f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:13000/AccountExample" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AccountExample.xsd" MetadataType="Schema" ID="36d58559-93d7-4718-a68e-6afea9cffd4d" SourceId="1" SourceUrl="http://localhost:13000/AccountExample?xsd=xsd2" />
+    <MetadataFile FileName="AccountExample.disco" MetadataType="Disco" ID="daf71c71-4f01-44bd-901b-59d996d2a8ca" SourceId="1" SourceUrl="http://localhost:13000/AccountExample?disco" />
+    <MetadataFile FileName="AccountExample1.xsd" MetadataType="Schema" ID="01c188c5-2802-4570-b6ed-02d0886fd900" SourceId="1" SourceUrl="http://localhost:13000/AccountExample?xsd=xsd0" />
+    <MetadataFile FileName="AccountExample2.xsd" MetadataType="Schema" ID="b22faf50-9328-4a63-a582-839713ebda7d" SourceId="1" SourceUrl="http://localhost:13000/AccountExample?xsd=xsd1" />
+    <MetadataFile FileName="AccountService.wsdl" MetadataType="Wsdl" ID="44f5f4f0-1fd2-4b22-b60b-a3831ca38ed6" SourceId="1" SourceUrl="http://localhost:13000/AccountExample?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

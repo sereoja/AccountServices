@@ -1,0 +1,12 @@
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\bin\Debug\Client_AccountsService.exe.config
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\bin\Debug\Client_AccountsService.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\bin\Debug\Client_AccountsService.pdb
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.csprojResolveAssemblyReference.cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.Form1.resources
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.Properties.Resources.resources
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.csproj.GenerateResource.Cache
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.exe
+C:\Users\lzerrouki\Documents\Visual Studio 2015\Projects\FALL-2016\CSI-256\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.pdb
+C:\Users\homer\Desktop\WCF_AccountServices\Client_AccountsService\bin\Debug\Client_AccountsService.exe.config
+C:\Users\homer\Desktop\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.exe
+C:\Users\homer\Desktop\WCF_AccountServices\Client_AccountsService\obj\Debug\Client_AccountsService.pdb
